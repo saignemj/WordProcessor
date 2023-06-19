@@ -1,7 +1,8 @@
 # WordProcessor
 
-Visual Studio 2019 project;
-Configuration type: Application (.exe)
-C++ Language standard: C++20
+Visual Studio 2019 project;<br>
+Configuration type: Application (.exe)<br>
+C++ Language standard: C++20<br>
 
-For pratical purposes, the test code is also in the application.
+External libraries: gtest<br>
+For pratical purposes, the test code is also in the application.<br>
